@@ -1,15 +1,17 @@
-[ ] Enable loadable module support
-[ ] Virtualization
+**Tested on Linux 6.18.35**
 
-General setup -> Kernel compression mode (Gzip) -> xz
-General setup -> Compiler optimization level (Optimize for performance (-O2)) -> Compiler optimization level (Optimize for size (-Os)) 
-General setup -> [ ] Auditing support
+`[ ] Enable loadable module support` <br>
+`[ ] Virtualization` <br>
 
-Kernel hacking -> [ ] Kernel debugging
-Kernel hacking -> [ ] Tracers 
+`General setup` -> `Kernel compression mode (Gzip)` -> `xz` <br>
+`General setup` -> `Compiler optimization level (Optimize for performance (-O2))` -> `Compiler optimization level (Optimize for size (-Os))` <br>
+`General setup` -> `[ ] Auditing support` <br>
 
-Device Drivers -> [ ] Macintosh device drivers 
-Device Drivers -> [ ] Microsoft Surface Platform-Specific Device Drivers
-Device Drivers -> [ ] Sound card support
+`Processor type and features` -> `[ ] Linux guest support` <br>
 
-Processor type and features -> [ ] Linux guest support
+`Device Drivers` -> `[ ] Macintosh device drivers` <br>
+`Device Drivers` -> `[ ] Microsoft Surface Platform-Specific Device Drivers` <br>
+`Device Drivers` -> `[ ] Sound card support` <br>
+
+`Kernel hacking` -> `[ ] Kernel debugging` <br>
+`Kernel hacking` -> `[ ] Tracers` <br>
